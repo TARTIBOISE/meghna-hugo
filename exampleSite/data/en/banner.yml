@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: https://cdn.discordapp.com/attachments/1041707654789201941/1087682656055083028/on_vit_vraiment_dans_une_saucisse.png
+  bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Experience the new reality
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
