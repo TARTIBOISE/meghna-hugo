@@ -23,4 +23,5 @@ fields:
   label: description
   description: meta description
 pages:
+- exampleSite/content/english/blog/ceo.md
 - exampleSite/content/english/blog/on-vit-vraiment-dans-une-saucisse.md
